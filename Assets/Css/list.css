@@ -1,0 +1,21 @@
+.top{
+    font-size: 20px;
+    color: aquamarine;
+}
+.middle-top{
+    font-size: 35px;
+    color: blanchedalmond;
+
+}
+.middle{
+    font-size: 50px;
+    color: chartreuse;
+}
+.middle-botton{
+    font-size: 65px;
+    color: cyan;
+}
+.botton{
+    font-size: 80px;
+    color: darkorange;
+}
